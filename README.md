@@ -1,9 +1,9 @@
 Cookie Legal: jQuery plugin
 ==================================
 
-* Show an unobtrusive cookie usage message on your site by importing this jQuery plugin.
+* Show an unobtrusive cookie usage message at the bottom of your site by importing this jQuery plugin.
 
-* Includes a cookie legal page outlining what they are, how they are used and how to disable them in your browser preferences.
+* Includes a cookie legal page outlining what they are, how they are used and how to disable them.
 
 * Uses jquery-cookie for using cookies (https://github.com/carhartl/jquery-cookie).
 
